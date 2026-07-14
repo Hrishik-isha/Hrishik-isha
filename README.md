@@ -8,13 +8,17 @@ What I work with
 
 UI and API Automation: Playwright with TypeScript, Postman
 BDD: Karate Cucumber
+
 AI assisted QA: building local LLM powered tools with Ollama for test case generation and QA agents
+
 Manual Testing: over 2 years on production SaaS, including exploratory and regression testing
 
 Featured projects
 
 API Test Automation Framework
+
 REST API test automation framework built with Playwright and TypeScript. Includes JSON Schema contract testing, CRUD and negative test coverage, and CI/CD via GitHub Actions.
+
 Link: github.com/Hrishik-isha/API-Test-Automation-Framework
 
 AI_Testing
