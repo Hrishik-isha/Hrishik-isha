@@ -7,7 +7,9 @@ I currently work as a Manual QA Engineer on a multi tenant SaaS platform, and I'
 What I work with
 
 UI and API Automation: Playwright with TypeScript, 
+
 Postman
+
 BDD: Karate Cucumber
 
 AI assisted QA: building local LLM powered tools with Ollama for test case generation and QA agents
